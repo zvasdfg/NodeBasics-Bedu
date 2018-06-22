@@ -1,0 +1,22 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "Basic Attempts For NOdeJS @ Bedu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvasdfg/NodeBasics-Bedu.git"
+  },
+  "author": "zvasdfg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvasdfg/NodeBasics-Bedu/issues"
+  },
+  "homepage": "https://github.com/zvasdfg/NodeBasics-Bedu#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
